@@ -86,7 +86,7 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
 - 有什么资料需要的/找不到的/没人整理的，尽管说。但是我一个人整理资料会很慢，如果本仓库中没有，那么就说明我还没有整理完成。
 
-- 同时，我有网站和github，这两个地方的资料完全相同。所有资料没有密码之类的。
+- 同时，我有网站和github仓库。GitHub仓库因为容量和下载的速度的问题只有说明和索引列表，而网站的仓库中包括所有内容
 
 - 比如PPT之类的资料有不同年份/不同老师的不同版本，自己根据需要参考
 
@@ -116,14 +116,16 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
 本仓库中有一个名为files.txt的文件，里面是仓库所有内容的文件名称。
 
-因为是个人服务器，没有空间限制（最大40G），所以我会将所有的资料都放在上面，需要什么自己选择。
+因为是个人服务器，最大空间限制40G，所以我会将所有的资料都放在上面，需要什么自己选择。
 
 服务器每个月限量1000G，如果不是必要不要频繁下载，给我省点流量费。
+
+<font color=red size=12>当然，如果当月下载流量快要达到限量时，我会关闭下载通道。</font>
 
 下载：
 
 ```bash
-git clone http://feater.top/NJUCS --depth 1
+git clone http://feater.top:8000/NJUCS.git --depth 1
 ```
 
 ## 1.4. 联系方式
@@ -263,6 +265,8 @@ QQ：1768478912 （往事深处的少年）
 单词是最重要的，你不了解文章的大意会再多的解题技巧都没有用。
 
 当然了，以后看论文也方便。
+
+<a href="https://feater.top/ebooks/2261/">2005-2020考研英语真题数据分析报告</a>
 
 #### 1.9.1.3. 政治
 
@@ -459,3 +463,7 @@ http://bbs.koolearn.com/forum.php?mod=viewthread&tid=5664088&extra=&page=1
 我，幽弥狂，打钱。
 
 <img src="https://image.feater.top/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" alt="支付宝" />
+
+如果有空，可以到我的<a href="https://feater.top">个人博客</a>上面看看。
+
+不定期分享Qt/Linux/OpenGL/OpenCV/FFmpeg/ROS2/C++文章，同时会分享一些电子书，以及破解软件等等。
